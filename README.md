@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on: Building MERN Stack applications <br></br>
 👯 I’m looking to collaborate on: MERN Stack <br></br>
-🌱 I’m currently learning: Advanced AWS Services and GraphQL.<br></br>
+🌱 I’m currently learning: SQL Server and GraphQL.<br></br>
 💬 Ask me about: Typescript, JavaScript, PWA, React, Nextjs, Mongo DB, and general software development questions.<br></br>
 ⚡ Fun fact: I love creating content.<br></br>
 
